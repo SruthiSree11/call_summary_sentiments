@@ -1,4 +1,4 @@
-````markdown
+
 # 📞 Call Transcript Summary & Sentiment Analyzer
 
 A **Flask-based mini project** that analyzes customer call transcripts using the **Groq API**.  
@@ -89,8 +89,5 @@ Sentiment: Mixed → [Positive, Frustrated]
 
 ---
 
-````
-
----
 
 
