@@ -1,0 +1,20 @@
+Test case 1: 
+"You charged me double for my last order, I have the invoice right here. This is ridiculous, how can you mess up something so simple? I want a refund right now. My order number is #234771."
+Test case 2: 
+"Hi. I'm looking at your website and I can't figure out how to reset my password. I clicked on 'forgot password' but the link never showed up in my email. My username is 'janesmith123'. Can you help?"
+Test case 3: 
+"I'd like to return an item I recently purchased. It arrived on Tuesday but it's not the correct size. The order was placed on September 12th. I believe the item number is X299. Please let me know what the return process is."
+Test case 4: 
+"My thing isn't working. It keeps shutting off. Fix it. The order was from last month. I've already tried turning it off and on again. It's really annoying."
+Test case 5: 
+"I'm experiencing an issue with my software license. I installed the new update yesterday, version 3.5.1, but now it says my subscription is expired when I try to open the application. My account email is testuser@email.com."
+Test case 6: 
+"I love your product, it's been great. But lately, the delivery service has been terrible. My last three packages arrived late and one was damaged. What can you do about this?"
+Test case 7: 
+"I just placed an order a few minutes ago. My order number is #900114. I forgot to update my address. Can you please change the shipping address to 123 Maple Street instead of the old one? The city is Springfield."
+Test case 8: 
+"I'm wondering about the subscription tiers. I want to know what the difference is between the basic plan and the premium plan. Your website isn't very clear on the specific features included with each. What are the main differences?"
+Test case 9: 
+"I need to cancel my account immediately. I don't want to be charged for the next billing cycle. My account ID is 556789. Can you confirm the cancellation process for me?"
+Test case 10: 
+"Hello! I hope you're having a good day. I'm just calling to ask for a copy of my last billing statement to be sent to my email. Thank you so much for your help!"

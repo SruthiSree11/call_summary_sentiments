@@ -1,0 +1,11 @@
+Transcript,Summary,Sentiment
+"""You charged me double for my last order, I have the invoice right here. This is ridiculous, how can you mess up something so simple? I want a refund right now. My order number is #234771.""
+",The customer was charged double for their last order and is requesting a refund.,"Negative -> [Frustrated, Angry, Disappointed]"
+"""Hi. I'm looking at your website and I can't figure out how to reset my password. I clicked on 'forgot password' but the link never showed up in my email. My username is 'janesmith123'. Can you help?""
+","Customer unable to reset password due to missing email link, seeking assistance.","Neutral -> [Impatient, Polite]"
+"""You charged me double for my last order, I have the invoice right here. This is ridiculous, how can you mess up something so simple? I want a refund right now. My order number is #234771.""
+","Customer claims to have been overcharged for an order, expresses frustration and anger, and requests a refund.","Negative -> [Annoyed, Angry, Frustrated, Disappointed, Urgent]"
+"""I just placed an order a few minutes ago. My order number is #900114. I forgot to update my address. Can you please change the shipping address to 123 Maple Street instead of the old one? The city is Springfield.""
+",Customer placed an order and requests a change to their shipping address due to a forgotten update.,"Neutral -> [Polite, Informative]"
+"""I'm experiencing an issue with my software license. I installed the new update yesterday, version 3.5.1, but now it says my subscription is expired when I try to open the application. My account email is testuser@email.com.""
+",Customer is experiencing an issue with their software license subscription after updating to version 3.5.1.,Negative -> [Confused]
