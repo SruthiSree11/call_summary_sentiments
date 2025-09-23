@@ -1,5 +1,5 @@
 
-# 📞 Call Transcript Summary & Sentiment Analyzer
+#  Call Transcript Summary & Sentiment Analyzer
 
 A **Flask-based mini project** that analyzes customer call transcripts using the **Groq API**.  
 
@@ -10,7 +10,7 @@ The app automatically:
 
 ---
 
-## ✨ Features
+##  Features
 - Simple **web UI** for entering transcripts  
 - Real-time **summary + sentiment analysis**  
 - Structured JSON ensures **consistent output**  
@@ -18,7 +18,7 @@ The app automatically:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 call_summary_sentiment/
 ├── app.py              # Flask app
@@ -31,7 +31,7 @@ call_summary_sentiment/
 
 ---
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 1. **Install dependencies**
 
@@ -65,7 +65,7 @@ call_summary_sentiment/
 
 ---
 
-## 📝 Example
+##  Example
 
 **Input Transcript:**
 
@@ -82,7 +82,7 @@ Sentiment: Mixed → [Positive, Frustrated]
 
 ---
 
-## 🔒 Notes
+##  Notes
 
 * Keep `.env` private (never commit your API key).
 * This is a demo project — can be extended for dashboards or real call center integration.
